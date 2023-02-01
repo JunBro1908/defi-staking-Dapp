@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e44e58f63c50f38c047",
+    "revision": "9c56e82caa5578b25147",
     "url": "/defi-staking-web/static/css/main.a94446bb.chunk.css"
   },
   {
-    "revision": "4e44e58f63c50f38c047",
-    "url": "/defi-staking-web/static/js/main.4e44e58f.chunk.js"
+    "revision": "9c56e82caa5578b25147",
+    "url": "/defi-staking-web/static/js/main.9c56e82c.chunk.js"
   },
   {
     "revision": "da11cc6be1453b14804d",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/defi-staking-web/static/media/MBR_poster.c498cac0.png"
   },
   {
-    "revision": "17a2e989f90b790c1016909a7c1e6826",
+    "revision": "e01f7759d875b0fe60e35f8dcb8d70aa",
     "url": "/defi-staking-web/index.html"
   }
 ];

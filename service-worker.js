@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/defi-staking-web/precache-manifest.e221cf9a3ce6546298a0addb66e7de27.js"
+  "/defi-staking-web/precache-manifest.7144cd49cf6708af45d0bce220e7e8d0.js"
 );
 
 workbox.clientsClaim();

@@ -52,7 +52,7 @@
   "directories": {
     "test": "test"
   },
-  "homepage": "https://github.com/junBro1908/defi-staking-website-MBRtoken/",
+  "homepage": "https://junbro1908.github.io/defi-staking-web/",
   "devDependencies": {
     "babel-register": "^6.26.0",
     "gh-pages": "^5.0.0"
